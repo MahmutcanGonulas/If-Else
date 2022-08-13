@@ -1,0 +1,15 @@
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\7-If-Else-TernaryIf\bin\Debug\net6.0\7-If-Else-TernaryIf.exe
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\7-If-Else-TernaryIf\bin\Debug\net6.0\7-If-Else-TernaryIf.deps.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\7-If-Else-TernaryIf\bin\Debug\net6.0\7-If-Else-TernaryIf.runtimeconfig.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\7-If-Else-TernaryIf\bin\Debug\net6.0\7-If-Else-TernaryIf.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\7-If-Else-TernaryIf\bin\Debug\net6.0\7-If-Else-TernaryIf.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\7-If-Else-TernaryIf\obj\Debug\net6.0\7-If-Else-TernaryIf.csproj.AssemblyReference.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\7-If-Else-TernaryIf\obj\Debug\net6.0\7-If-Else-TernaryIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\7-If-Else-TernaryIf\obj\Debug\net6.0\7-If-Else-TernaryIf.AssemblyInfoInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\7-If-Else-TernaryIf\obj\Debug\net6.0\7-If-Else-TernaryIf.AssemblyInfo.cs
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\7-If-Else-TernaryIf\obj\Debug\net6.0\7-If-Else-TernaryIf.csproj.CoreCompileInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\7-If-Else-TernaryIf\obj\Debug\net6.0\7-If-Else-TernaryIf.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\7-If-Else-TernaryIf\obj\Debug\net6.0\refint\7-If-Else-TernaryIf.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\7-If-Else-TernaryIf\obj\Debug\net6.0\7-If-Else-TernaryIf.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\7-If-Else-TernaryIf\obj\Debug\net6.0\7-If-Else-TernaryIf.genruntimeconfig.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\7-If-Else-TernaryIf\obj\Debug\net6.0\ref\7-If-Else-TernaryIf.dll
